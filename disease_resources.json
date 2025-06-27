@@ -1,0 +1,66 @@
+{
+    "Apple___Apple_scab": {
+        "video": "https://www.youtube.com/watch?v=2ZzP5aNhh3A",
+        "description": "Apple scab is caused by the fungus Venturia inaequalis. It affects leaves and fruits. Control it with fungicides and resistant varieties."
+    },
+    "Apple___Black_rot": {
+        "video": "https://www.youtube.com/watch?v=6O3fx5JZsDM",
+        "description": "Black rot affects apples, causing fruit rot and leaf spot. Prune infected branches and apply fungicide."
+    },
+    "Apple___Cedar_apple_rust": {
+        "video": "https://www.youtube.com/watch?v=xYZKfdpl1O0",
+        "description": "A fungal disease with orange spots on leaves. Remove nearby cedar trees and apply fungicides."
+    },
+    "Potato___Early_blight": {
+        "video": "https://youtu.be/PSXXoGrOyDg?si=1EMEdJoN4Ew92OP3",
+        "description": "Early blight causes brown leaf spots. Practice crop rotation and apply fungicides early."
+    },
+    "Potato___Late_blight": {
+        "video": "https://www.youtube.com/watch?v=GnGLvP5zK6I",
+        "description": "Late blight causes leaf lesions and tuber rot. Use resistant varieties and copper-based fungicides."
+    },
+    "Tomato___Bacterial_spot": {
+        "video": "https://www.youtube.com/watch?v=yiFms1MHn4s",
+        "description": "Bacterial spot leads to black lesions on leaves and fruit. Use clean seeds and copper sprays."
+    },
+    "Tomato___Early_blight": {
+        "video": "https://www.youtube.com/watch?v=Z5FoW_DtwYM",
+        "description": "Causes target-shaped leaf spots. Remove infected debris and apply preventive sprays."
+    },
+    "Tomato___Late_blight": {
+        "video": "https://www.youtube.com/watch?v=9WQzR3yAAPA",
+        "description": "A devastating disease causing wilting and fruit rot. Use resistant varieties and regular fungicide sprays."
+    },
+    "Tomato___Leaf_Mold": {
+        "video": "https://www.youtube.com/watch?v=cDlF6kVtsEw",
+        "description": "Yellow spots on leaves that turn moldy. Improve air circulation and treat with sulfur sprays."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "video": "https://www.youtube.com/watch?v=jA_0BT2OxQQ",
+        "description": "Transmitted by whiteflies, this virus curls and yellows leaves. Use resistant varieties and control whiteflies."
+    },
+    "Tomato___healthy": {
+        "video": "https://www.youtube.com/watch?v=PSXXoGrOyDg",
+        "description": "Your tomato plant is healthy! Keep monitoring for any early signs of disease."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "video": "https://www.youtube.com/watch?v=3o5QbdhzKoU",
+        "description": "Rust appears as reddish pustules on leaves. Rotate crops and use resistant hybrids."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "video": "https://www.youtube.com/watch?v=Mug3m2M5AGE&t=3s",
+        "description": "Causes long, gray-green lesions. Apply fungicides and avoid continuous cropping."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "video": "https://www.youtube.com/watch?v=pZWEbQkx6ro",
+        "description": "A bacterial disease spread by psyllids. Use certified planting material and remove infected trees."
+    },
+    "Peach___Bacterial_spot": {
+        "video": "https://www.youtube.com/watch?v=fmLSAvKAvVo",
+        "description": "Causes lesions on fruit and leaves. Apply copper sprays and manage orchard sanitation."
+    },
+    "Strawberry___Leaf_scorch": {
+        "video": "https://www.youtube.com/watch?v=BEz0AYWNTsc",
+        "description": "Dark spots form on leaves, leading to drying. Improve airflow and remove infected foliage."
+    }
+}
